@@ -1,0 +1,9 @@
+flyway:
+  schemas: oauth
+
+spring:
+  datasource:
+      url: jdbc:postgresql://localhost:5430/XX
+      driver-class-name: org.postgresql.Driver
+      username: XX
+      password: XX
