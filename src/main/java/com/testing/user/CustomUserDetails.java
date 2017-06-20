@@ -29,5 +29,4 @@ public class CustomUserDetails implements UserDetails {
     private Long entityId;
     private String slug;
     private String salt;
-    private String action = "post-prescription";
 }
